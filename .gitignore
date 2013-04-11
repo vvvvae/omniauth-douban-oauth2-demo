@@ -13,3 +13,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+public/assets/
+.sass-cache
+.DS_Store
+*.swp
